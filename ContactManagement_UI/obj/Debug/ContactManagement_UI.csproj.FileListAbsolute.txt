@@ -1,0 +1,92 @@
+D:\Arvind Mishra - Data & Files\ContactManagement\ContactManagement_UI\bin\ContactManagement_UI.dll
+D:\Arvind Mishra - Data & Files\ContactManagement\ContactManagement_UI\bin\ContactManagement_UI.pdb
+D:\Arvind Mishra - Data & Files\ContactManagement\ContactManagement_UI\obj\Debug\ResolveAssemblyReference.cache
+D:\Arvind Mishra - Data & Files\ContactManagement\ContactManagement_UI\obj\Debug\ContactManagement_UI.dll
+D:\Arvind Mishra - Data & Files\ContactManagement\ContactManagement_UI\obj\Debug\ContactManagement_UI.pdb
+D:\Arvind Mishra - Data & Files\ContactManagement\ContactManagement_UI\bin\ContactManagement_BAL.dll
+D:\Arvind Mishra - Data & Files\ContactManagement\ContactManagement_UI\bin\ContactManagement_Entities.dll
+D:\Arvind Mishra - Data & Files\ContactManagement\ContactManagement_UI\bin\ContactManagement_BAL.pdb
+D:\Arvind Mishra - Data & Files\ContactManagement\ContactManagement_UI\bin\ContactManagement_Entities.pdb
+D:\Arvind Mishra - Data & Files\DION Projects\ContactManagement\ContactManagement_UI\bin\System.Web.dll
+D:\Arvind Mishra - Data & Files\DION Projects\ContactManagement\ContactManagement_UI\bin\ContactManagement_UI.dll
+D:\Arvind Mishra - Data & Files\DION Projects\ContactManagement\ContactManagement_UI\bin\ContactManagement_UI.pdb
+D:\Arvind Mishra - Data & Files\DION Projects\ContactManagement\ContactManagement_UI\bin\ContactManagement_BAL.dll
+D:\Arvind Mishra - Data & Files\DION Projects\ContactManagement\ContactManagement_UI\bin\ContactManagement_Entities.dll
+D:\Arvind Mishra - Data & Files\DION Projects\ContactManagement\ContactManagement_UI\bin\Microsoft.Web.Infrastructure.dll
+D:\Arvind Mishra - Data & Files\DION Projects\ContactManagement\ContactManagement_UI\bin\System.ComponentModel.DataAnnotations.dll
+D:\Arvind Mishra - Data & Files\DION Projects\ContactManagement\ContactManagement_UI\bin\System.Web.Helpers.dll
+D:\Arvind Mishra - Data & Files\DION Projects\ContactManagement\ContactManagement_UI\bin\System.Web.Mvc.dll
+D:\Arvind Mishra - Data & Files\DION Projects\ContactManagement\ContactManagement_UI\bin\System.Web.Razor.dll
+D:\Arvind Mishra - Data & Files\DION Projects\ContactManagement\ContactManagement_UI\bin\System.Web.Routing.dll
+D:\Arvind Mishra - Data & Files\DION Projects\ContactManagement\ContactManagement_UI\bin\System.Web.WebPages.Deployment.dll
+D:\Arvind Mishra - Data & Files\DION Projects\ContactManagement\ContactManagement_UI\bin\System.Web.WebPages.dll
+D:\Arvind Mishra - Data & Files\DION Projects\ContactManagement\ContactManagement_UI\bin\System.Web.WebPages.Razor.dll
+D:\Arvind Mishra - Data & Files\DION Projects\ContactManagement\ContactManagement_UI\bin\ContactManagement_DAL.dll
+D:\Arvind Mishra - Data & Files\DION Projects\ContactManagement\ContactManagement_UI\bin\ContactManagement_BAL.pdb
+D:\Arvind Mishra - Data & Files\DION Projects\ContactManagement\ContactManagement_UI\bin\ContactManagement_Entities.pdb
+D:\Arvind Mishra - Data & Files\DION Projects\ContactManagement\ContactManagement_UI\bin\System.Web.Mvc.xml
+D:\Arvind Mishra - Data & Files\DION Projects\ContactManagement\ContactManagement_UI\bin\System.Web.Razor.xml
+D:\Arvind Mishra - Data & Files\DION Projects\ContactManagement\ContactManagement_UI\bin\System.Web.WebPages.xml
+D:\Arvind Mishra - Data & Files\DION Projects\ContactManagement\ContactManagement_UI\bin\System.Web.WebPages.Deployment.xml
+D:\Arvind Mishra - Data & Files\DION Projects\ContactManagement\ContactManagement_UI\bin\System.Web.WebPages.Razor.xml
+D:\Arvind Mishra - Data & Files\DION Projects\ContactManagement\ContactManagement_UI\bin\ContactManagement_DAL.pdb
+D:\Arvind Mishra - Data & Files\DION Projects\ContactManagement\ContactManagement_UI\obj\Debug\ResolveAssemblyReference.cache
+D:\Arvind Mishra - Data & Files\DION Projects\ContactManagement\ContactManagement_UI\obj\Debug\ContactManagement_UI.dll
+D:\Arvind Mishra - Data & Files\DION Projects\ContactManagement\ContactManagement_UI\obj\Debug\ContactManagement_UI.pdb
+D:\Arvind Mishra - Data & Files\DION Projects\ContactManagement\ContactManagement_UI\bin\GridMvc.dll
+D:\Sanjay\ContactManagement\ContactManagement_UI\bin\ContactManagement_UI.dll
+D:\Sanjay\ContactManagement\ContactManagement_UI\bin\ContactManagement_UI.pdb
+D:\Sanjay\ContactManagement\ContactManagement_UI\bin\ContactManagement_BAL.dll
+D:\Sanjay\ContactManagement\ContactManagement_UI\bin\ContactManagement_Entities.dll
+D:\Sanjay\ContactManagement\ContactManagement_UI\bin\GridMvc.dll
+D:\Sanjay\ContactManagement\ContactManagement_UI\bin\Microsoft.Web.Infrastructure.dll
+D:\Sanjay\ContactManagement\ContactManagement_UI\bin\System.ComponentModel.DataAnnotations.dll
+D:\Sanjay\ContactManagement\ContactManagement_UI\bin\System.Web.dll
+D:\Sanjay\ContactManagement\ContactManagement_UI\bin\System.Web.Helpers.dll
+D:\Sanjay\ContactManagement\ContactManagement_UI\bin\System.Web.Mvc.dll
+D:\Sanjay\ContactManagement\ContactManagement_UI\bin\System.Web.Razor.dll
+D:\Sanjay\ContactManagement\ContactManagement_UI\bin\System.Web.Routing.dll
+D:\Sanjay\ContactManagement\ContactManagement_UI\bin\System.Web.WebPages.Deployment.dll
+D:\Sanjay\ContactManagement\ContactManagement_UI\bin\System.Web.WebPages.dll
+D:\Sanjay\ContactManagement\ContactManagement_UI\bin\System.Web.WebPages.Razor.dll
+D:\Sanjay\ContactManagement\ContactManagement_UI\bin\ContactManagement_DAL.dll
+D:\Sanjay\ContactManagement\ContactManagement_UI\bin\ContactManagement_BAL.pdb
+D:\Sanjay\ContactManagement\ContactManagement_UI\bin\ContactManagement_Entities.pdb
+D:\Sanjay\ContactManagement\ContactManagement_UI\bin\System.Web.Mvc.xml
+D:\Sanjay\ContactManagement\ContactManagement_UI\bin\System.Web.Razor.xml
+D:\Sanjay\ContactManagement\ContactManagement_UI\bin\System.Web.WebPages.xml
+D:\Sanjay\ContactManagement\ContactManagement_UI\bin\System.Web.WebPages.Deployment.xml
+D:\Sanjay\ContactManagement\ContactManagement_UI\bin\System.Web.WebPages.Razor.xml
+D:\Sanjay\ContactManagement\ContactManagement_UI\bin\ContactManagement_DAL.pdb
+D:\Sanjay\ContactManagement\ContactManagement_UI\obj\Debug\ResolveAssemblyReference.cache
+D:\Sanjay\ContactManagement\ContactManagement_UI\obj\Debug\ContactManagement_UI.dll
+D:\Sanjay\ContactManagement\ContactManagement_UI\obj\Debug\ContactManagement_UI.pdb
+D:\Dion_Projects\ContactManagement\ContactManagement_UI\obj\Debug\ResolveAssemblyReference.cache
+D:\Dion_Projects\ContactManagement\ContactManagement_UI\obj\Debug\ContactManagement_UI.dll
+D:\Dion_Projects\ContactManagement\ContactManagement_UI\obj\Debug\ContactManagement_UI.pdb
+D:\Dion_Projects\ContactManagement\ContactManagement_UI\bin\ContactManagement_UI.dll
+D:\Dion_Projects\ContactManagement\ContactManagement_UI\bin\ContactManagement_UI.pdb
+D:\Dion_Projects\ContactManagement\ContactManagement_UI\bin\ContactManagement_BAL.dll
+D:\Dion_Projects\ContactManagement\ContactManagement_UI\bin\ContactManagement_Entities.dll
+D:\Dion_Projects\ContactManagement\ContactManagement_UI\bin\GridMvc.dll
+D:\Dion_Projects\ContactManagement\ContactManagement_UI\bin\Microsoft.Web.Infrastructure.dll
+D:\Dion_Projects\ContactManagement\ContactManagement_UI\bin\System.ComponentModel.DataAnnotations.dll
+D:\Dion_Projects\ContactManagement\ContactManagement_UI\bin\System.Web.dll
+D:\Dion_Projects\ContactManagement\ContactManagement_UI\bin\System.Web.Helpers.dll
+D:\Dion_Projects\ContactManagement\ContactManagement_UI\bin\System.Web.Mvc.dll
+D:\Dion_Projects\ContactManagement\ContactManagement_UI\bin\System.Web.Razor.dll
+D:\Dion_Projects\ContactManagement\ContactManagement_UI\bin\System.Web.Routing.dll
+D:\Dion_Projects\ContactManagement\ContactManagement_UI\bin\System.Web.WebPages.Deployment.dll
+D:\Dion_Projects\ContactManagement\ContactManagement_UI\bin\System.Web.WebPages.dll
+D:\Dion_Projects\ContactManagement\ContactManagement_UI\bin\System.Web.WebPages.Razor.dll
+D:\Dion_Projects\ContactManagement\ContactManagement_UI\bin\ContactManagement_DAL.dll
+D:\Dion_Projects\ContactManagement\ContactManagement_UI\bin\ContactManagement_BAL.pdb
+D:\Dion_Projects\ContactManagement\ContactManagement_UI\bin\ContactManagement_Entities.pdb
+D:\Dion_Projects\ContactManagement\ContactManagement_UI\bin\Microsoft.Web.Infrastructure.xml
+D:\Dion_Projects\ContactManagement\ContactManagement_UI\bin\System.Web.Mvc.xml
+D:\Dion_Projects\ContactManagement\ContactManagement_UI\bin\System.Web.Helpers.xml
+D:\Dion_Projects\ContactManagement\ContactManagement_UI\bin\System.Web.Razor.xml
+D:\Dion_Projects\ContactManagement\ContactManagement_UI\bin\System.Web.WebPages.xml
+D:\Dion_Projects\ContactManagement\ContactManagement_UI\bin\System.Web.WebPages.Deployment.xml
+D:\Dion_Projects\ContactManagement\ContactManagement_UI\bin\System.Web.WebPages.Razor.xml
+D:\Dion_Projects\ContactManagement\ContactManagement_UI\bin\ContactManagement_DAL.pdb
