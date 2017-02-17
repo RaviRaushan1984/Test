@@ -1,0 +1,20 @@
+D:\Arvind Mishra - Data & Files\ContactManagement\ContactManagement_Entities\bin\Debug\ContactManagement_Entities.dll
+D:\Arvind Mishra - Data & Files\ContactManagement\ContactManagement_Entities\bin\Debug\ContactManagement_Entities.pdb
+D:\Arvind Mishra - Data & Files\ContactManagement\ContactManagement_Entities\obj\Debug\ResolveAssemblyReference.cache
+D:\Arvind Mishra - Data & Files\ContactManagement\ContactManagement_Entities\obj\Debug\ContactManagement_Entities.dll
+D:\Arvind Mishra - Data & Files\ContactManagement\ContactManagement_Entities\obj\Debug\ContactManagement_Entities.pdb
+D:\Arvind Mishra - Data & Files\DION Projects\ContactManagement\ContactManagement_Entities\bin\Debug\ContactManagement_Entities.dll
+D:\Arvind Mishra - Data & Files\DION Projects\ContactManagement\ContactManagement_Entities\bin\Debug\ContactManagement_Entities.pdb
+D:\Arvind Mishra - Data & Files\DION Projects\ContactManagement\ContactManagement_Entities\obj\Debug\ResolveAssemblyReference.cache
+D:\Arvind Mishra - Data & Files\DION Projects\ContactManagement\ContactManagement_Entities\obj\Debug\ContactManagement_Entities.dll
+D:\Arvind Mishra - Data & Files\DION Projects\ContactManagement\ContactManagement_Entities\obj\Debug\ContactManagement_Entities.pdb
+D:\Sanjay\ContactManagement\ContactManagement_Entities\bin\Debug\ContactManagement_Entities.dll
+D:\Sanjay\ContactManagement\ContactManagement_Entities\bin\Debug\ContactManagement_Entities.pdb
+D:\Sanjay\ContactManagement\ContactManagement_Entities\obj\Debug\ResolveAssemblyReference.cache
+D:\Sanjay\ContactManagement\ContactManagement_Entities\obj\Debug\ContactManagement_Entities.dll
+D:\Sanjay\ContactManagement\ContactManagement_Entities\obj\Debug\ContactManagement_Entities.pdb
+D:\Dion_Projects\ContactManagement\ContactManagement_Entities\bin\Debug\ContactManagement_Entities.dll
+D:\Dion_Projects\ContactManagement\ContactManagement_Entities\bin\Debug\ContactManagement_Entities.pdb
+D:\Dion_Projects\ContactManagement\ContactManagement_Entities\obj\Debug\ContactManagement_Entities.dll
+D:\Dion_Projects\ContactManagement\ContactManagement_Entities\obj\Debug\ContactManagement_Entities.pdb
+D:\Dion_Projects\ContactManagement\ContactManagement_Entities\obj\Debug\ResolveAssemblyReference.cache
